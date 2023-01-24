@@ -1,15 +1,15 @@
-#mainHeading {
+.colRed {
   color: red;
+}
+.colBrown {
+  color: brown;
 }
 .subHeading {
-  color: red;
   font-style: italic;
-}
-.normalList {
-  color: brown;
 }
 .cross {
   text-decoration: line-through;
+  font-weight: bold;
 }
 .highLighted {
   background-color: yellow;
@@ -19,7 +19,9 @@
   font-style: italic;
 }
 .unorderList {
-  color: brown;
   word-spacing: 10px;
   letter-spacing: 5px;
+}
+.rmTextDec {
+  text-decoration: none;
 }
