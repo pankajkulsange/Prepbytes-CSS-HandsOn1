@@ -1,0 +1,25 @@
+#mainHeading {
+  color: red;
+}
+.subHeading {
+  color: red;
+  font-style: italic;
+}
+.normalList {
+  color: brown;
+}
+.cross {
+  text-decoration: line-through;
+}
+.highLighted {
+  background-color: yellow;
+}
+.underLined {
+  text-decoration: underline;
+  font-style: italic;
+}
+.unorderList {
+  color: brown;
+  word-spacing: 10px;
+  letter-spacing: 5px;
+}
