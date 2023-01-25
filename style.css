@@ -16,6 +16,7 @@
 }
 .highLighted {
   background-color: yellow;
+  font-weight: bold;
 }
 .underLined {
   text-decoration: underline;
