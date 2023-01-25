@@ -7,6 +7,9 @@
 .subHeading {
   font-style: italic;
 }
+.lineHeight {
+  line-height: 50px;
+}
 .cross {
   text-decoration: line-through;
   font-weight: bold;
